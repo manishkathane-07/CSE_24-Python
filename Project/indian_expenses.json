@@ -1,0 +1,122 @@
+[
+    {
+        "date": "2026-01-05",
+        "amount": 1500.0,
+        "category": "Food & Groceries",
+        "description": "BigBasket grocery order"
+    },
+    {
+        "date": "2026-01-06",
+        "amount": 250.0,
+        "category": "Transportation",
+        "description": "Ola ride to office"
+    },
+    {
+        "date": "2026-01-07",
+        "amount": 450.0,
+        "category": "Entertainment",
+        "description": "Movie tickets at PVR"
+    },
+    {
+        "date": "2026-01-08",
+        "amount": 2500.0,
+        "category": "Utilities & Bills",
+        "description": "Electricity bill"
+    },
+    {
+        "date": "2026-01-10",
+        "amount": 800.0,
+        "category": "Food & Groceries",
+        "description": "Restaurant dinner"
+    },
+    {
+        "date": "2026-01-11",
+        "amount": 15000.0,
+        "category": "Rent",
+        "description": "Monthly house rent"
+    },
+    {
+        "date": "2026-01-12",
+        "amount": 350.0,
+        "category": "Mobile & Internet",
+        "description": "Jio postpaid bill"
+    },
+    {
+        "date": "2026-01-14",
+        "amount": 1200.0,
+        "category": "Shopping & Clothing",
+        "description": "Clothes from Myntra"
+    },
+    {
+        "date": "2026-01-15",
+        "amount": 600.0,
+        "category": "Healthcare",
+        "description": "Pharmacy medicines"
+    },
+    {
+        "date": "2026-01-16",
+        "amount": 200.0,
+        "category": "Transportation",
+        "description": "Metro card recharge"
+    },
+    {
+        "date": "2026-01-17",
+        "amount": 80.0,
+        "category": "Food & Groceries",
+        "description": "Chai and samosa"
+    },
+    {
+        "date": "2026-01-18",
+        "amount": 3000.0,
+        "category": "Utilities & Bills",
+        "description": "Society maintenance"
+    },
+    {
+        "date": "2026-01-19",
+        "amount": 150.0,
+        "category": "Personal Care",
+        "description": "Haircut at salon"
+    },
+    {
+        "date": "2026-01-20",
+        "amount": 500.0,
+        "category": "Entertainment",
+        "description": "Netflix subscription"
+    },
+    {
+        "date": "2026-01-21",
+        "amount": 2000.0,
+        "category": "Education",
+        "description": "Online course fee"
+    },
+    {
+        "date": "2026-01-22",
+        "amount": 400.0,
+        "category": "Transportation",
+        "description": "Petrol for bike"
+    },
+    {
+        "date": "2026-01-23",
+        "amount": 1800.0,
+        "category": "Food & Groceries",
+        "description": "Weekly vegetable shopping"
+    },
+    {
+        "date": "2026-01-24",
+        "amount": 250.0,
+        "category": "Other",
+        "description": "Temple donation"
+    },
+    {
+        "date": "2026-01-25",
+        "amount": 700.0,
+        "category": "Healthcare",
+        "description": "Gym membership"
+    },
+    {
+        "date": "2026-01-26",
+        "amount": 320.0,
+        "category": "Food & Groceries",
+        "description": "Swiggy food order"
+    }
+]

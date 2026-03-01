@@ -1,0 +1,64 @@
+╔══════════════════════════════════════════════════╗
+║       PERSONAL EXPENSE TRACKER - UPDATED         ║
+╚══════════════════════════════════════════════════╝
+
+📋 MAIN MENU
+==================================================
+
+1️⃣  Add Expense
+    → Record new expense with amount, category, 
+       description, and date
+
+2️⃣  View All Expenses
+    → Display complete expense history
+
+3️⃣  View Monthly Expenses
+    → Filter and view expenses by specific month/year
+
+4️⃣  Generate Monthly Report
+    → Comprehensive analysis with charts and stats
+
+5️⃣  Generate Monthly Bar Chart (Year)
+    → Visual overview of spending across 12 months
+
+6️⃣  Generate Category Pie Chart
+    → Category-wise expense distribution
+
+7️⃣  Clear All Data ⚠️  [NEW FEATURE]
+    → Delete all expenses with safety confirmation
+    → Requires typing "DELETE ALL" to confirm
+    → Shows total entries and amount before deletion
+
+8️⃣  Exit
+    → Close the application
+
+==================================================
+
+🔒 SAFETY FEATURES (Clear All Data)
+==================================================
+✓ Confirmation required: Must type "DELETE ALL"
+✓ Shows number of entries to be deleted
+✓ Shows total amount (₹) to be deleted
+✓ Warning: Action cannot be undone
+✓ Any other input cancels operation
+
+==================================================
+
+💡 QUICK TIPS
+==================================================
+• All amounts in Indian Rupees (₹)
+• Date format: YYYY-MM-DD (e.g., 2026-01-27)
+• Press Ctrl+C to force quit anytime
+• Backup your expenses.json file regularly
+• Charts saved as PNG files (300 DPI)
+
+==================================================
+
+📁 FILES CREATED
+==================================================
+• expenses.json - Your expense data
+• expense_pie_chart.png - Category distribution
+• category_bar_chart.png - Category comparison
+• monthly_expenses_bar_chart.png - Yearly overview
+
+==================================================
